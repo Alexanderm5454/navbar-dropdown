@@ -9,10 +9,10 @@
         
         function DropDownAction() {
             this.navItems = {};
-            this.navItems.subItems;
-                this.heights = [];
-                this.navItemClass = "childClass";
-                this.navSubItemClass = "grandChildClass";
+            this.navItems.subItems = {};
+            this.heights = [];
+            this.navItemClass = "childClass";
+            this.navSubItemClass = "grandChildClass";
         }
 
         DropDownAction.prototype.init = function () {
