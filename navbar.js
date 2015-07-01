@@ -1,3 +1,9 @@
+/**
+ * Author: Alexander Markowski
+ * Licence MIT
+ */ 
+
+;
 (function($) {
     $(document).ready(function() {
         
